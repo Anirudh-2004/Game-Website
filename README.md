@@ -1,1 +1,1 @@
-# Game-Website
+# gamming-website
